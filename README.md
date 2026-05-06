@@ -152,3 +152,5 @@ Quelques idées pour améliorer ce projet :
 # 📜 Licence
 
 Projet libre pour l’apprentissage du langage **C**.
+
+Par Boran SEZER
